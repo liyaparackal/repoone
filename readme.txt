@@ -1,1 +1,1 @@
-"This is my  local Git repo." 
+"Initial commit" 
